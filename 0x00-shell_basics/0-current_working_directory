@@ -1,8 +1,4 @@
 #!/bin/bash
-
-#Get the current working directory
 cwd=$(pwd)
-
-#Print the current working directory
 echo "Current working directory: $cwd"
 
